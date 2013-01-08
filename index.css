@@ -1,0 +1,24 @@
+@media screen {
+	html{
+		background-color:#33CCFF;
+	}
+	body{
+		background-color:#FFFFFF;
+		width:60%;
+		margin-left:10%;
+		margin-right:10%;
+		padding:10%;
+	}
+}
+@media screen and (min-width:400px){
+	html{
+		background-color:#CCFF99;
+	}
+	body{
+		background-color:#FFFFFF;
+		width:300px;
+		margin-left:10%;
+		margin-right:10%;
+		padding:10%;
+	}
+}
